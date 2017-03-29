@@ -1,5 +1,4 @@
-public class LengthOfLongestSubstring {
-    
+public class LengthOfLongestSubstring {  
     public static int lengthOfLongestSubstring(String s) {
         if(s.length() == 1){
             return 1;
