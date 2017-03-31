@@ -1,5 +1,4 @@
 public class MyAtoi {
-
     public static int myAtoi(String str) {
         if (str == null || str.length() < 1)
 		return 0;
