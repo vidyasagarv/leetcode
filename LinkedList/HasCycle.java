@@ -10,7 +10,6 @@
  * }
  */
 public class HasCycle {
-
     public static boolean hasCycle(ListNode head) {
         if(head == null || head.next == null)
         return false;
