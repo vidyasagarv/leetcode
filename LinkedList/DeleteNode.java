@@ -7,7 +7,6 @@
  * }
  */
 public class DeleteNode {
-
     public static void deleteNode(ListNode node) {
         ListNode actualNode = node;
         while(node.next != null){
