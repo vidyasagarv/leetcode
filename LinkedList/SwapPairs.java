@@ -6,8 +6,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class SwapPairs {
-    
+public class SwapPairs { 
     public static ListNode swapPairs(ListNode head) {
         ListNode h = new ListNode(0);
         h.next = head;
